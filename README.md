@@ -24,7 +24,7 @@ PS:我不知道哪个弱智居然连这种插件都要复制，我服了，所�
 </thead>
 <tbody>
 <tr>
-<td>n079_Enable</td>
+<td>kc_save</td>
 <td align="center">布尔值</td>
 <td align="center">True</td>
 <td>是否开启全局杀敌记录</td>
