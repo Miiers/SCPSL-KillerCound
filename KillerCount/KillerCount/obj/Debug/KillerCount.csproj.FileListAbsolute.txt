@@ -1,0 +1,8 @@
+F:\Projects\KillerCount\KillerCount\bin\Debug\KillerCount.dll
+F:\Projects\KillerCount\KillerCount\bin\Debug\KillerCount.pdb
+F:\Projects\KillerCount\KillerCount\bin\Debug\Smod2.dll
+F:\Projects\KillerCount\KillerCount\obj\Debug\KillerCount.csprojAssemblyReference.cache
+F:\Projects\KillerCount\KillerCount\obj\Debug\KillerCount.csproj.CoreCompileInputs.cache
+F:\Projects\KillerCount\KillerCount\obj\Debug\KillerCount.csproj.CopyComplete
+F:\Projects\KillerCount\KillerCount\obj\Debug\KillerCount.dll
+F:\Projects\KillerCount\KillerCount\obj\Debug\KillerCount.pdb
